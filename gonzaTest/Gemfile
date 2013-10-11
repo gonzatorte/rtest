@@ -46,3 +46,5 @@ end
 
 gem "byebug"
 gem "wirble"
+
+gem "rufus-scheduler", "~> 3.0.0"
